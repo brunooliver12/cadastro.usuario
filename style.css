@@ -1,0 +1,32 @@
+
+*{
+    padding: 0;
+    }
+    body {
+        max-width: 500px;
+        margin: 40px auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+    }
+    label {
+        display: block;
+        margin-top: 15px;
+    }
+    input {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+    }
+    button {
+        margin-top: 20px;
+        padding: 10px;
+        width: 100%;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+
